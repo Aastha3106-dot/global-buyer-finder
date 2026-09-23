@@ -1,0 +1,10 @@
+project_id = "0ec90b57d6e95fcbda19832f"
+
+[functions.find-buyers]
+verify_jwt = false
+
+[functions.send-email]
+verify_jwt = false
+
+[functions.api-status]
+verify_jwt = false
